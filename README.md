@@ -1,4 +1,4 @@
-# spring_aop
+# Spring Database
 [![GitHub Release](https://img.shields.io/github/release/zjayers/spring.database.svg?style=flat)]()
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/spring.database.svg?style=flat)]()
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/spring.database.svg?maxAge=25000)](https://github.com/zjayers/spring.database/issues)
@@ -19,7 +19,3 @@
 ## Usage
 
 > Work in progress
-
-## License
-
-MIT © [Zach Ayers]()
