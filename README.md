@@ -1,8 +1,7 @@
 # Spring Database
-[![GitHub Release](https://img.shields.io/github/release/zjayers/spring.database.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/spring.database.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/spring.database.svg?style=flat)](https://github.com/zjayers/spring.database/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/spring.database.svg?style=flat)](https://github.com/zjayers/spring.database/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/spring.database.svg?maxAge=25000)](https://github.com/zjayers/spring.database/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/spring.database/blob/master/LICENSEs)
 
 ## Description
 
